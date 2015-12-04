@@ -1,0 +1,12 @@
+body {
+	text-align: center;
+	box-shadow: blue
+}
+#first {
+	color: red;
+
+}
+
+.current {
+	border: 1px solid black;
+}
